@@ -1,15 +1,14 @@
-{!README.md!}
+# Team Onboarding
 
-# Welcome to Lumache's documentation!
+Welcome! This site contains our technical guides and mathematical foundations.
 
-**Lumache** (/lu\'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients. It pulls data from the
-[Open Food Facts database](https://world.openfoodfacts.org/) and offers
-a *simple* and *intuitive* API.
+## Math Rendering Test
+If the configuration is correct, the equation below will look like a professional formula, not raw code:
 
-Check out the [usage](usage) section for further information, including how to [install](usage#installation) the project.
+$$
+\frac{n!}{k!(n-k)!} = \binom{n}{k}
+$$
 
-!!! note
-
-    This project is under active development.
-
+### Getting Started
+1. Review the API docs.
+2. Complete the local environment setup.
