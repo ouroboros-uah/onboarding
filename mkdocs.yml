@@ -1,6 +1,6 @@
 site_name: Team Onboarding
 theme:
-  name: material
+  name: material  # Recommended for better math rendering
   features:
     - navigation.sections
     - navigation.expand
@@ -26,4 +26,3 @@ extra_javascript:
 nav:
   - Home: index.md
   - Math Reference: math_guide.md
-  - Python API: api.md
