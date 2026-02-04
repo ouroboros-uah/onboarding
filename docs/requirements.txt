@@ -1,3 +1,5 @@
 mkdocs-material
 mkdocstrings[python]
 pymdown-extensions
+mkdocs-markdown-include-plugin
+pyyaml-env-tag

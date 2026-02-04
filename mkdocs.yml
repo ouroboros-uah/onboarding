@@ -1,6 +1,17 @@
-site_name: OUROBOROS Onboarding
+site_name: Team Onboarding
 theme:
-  name: material  # Upgraded to material for better LaTeX styling
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: sphinx
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -8,11 +19,11 @@ markdown_extensions:
   - admonition
   - markdown_include.include:
       base_path: .
-  - mkdocstrings:
-      handlers:
-        python:
-          options:
-            docstring_style: sphinx
 
 extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Math Reference: math_guide.md
+  - Python API: api.md

@@ -12,3 +12,10 @@ $$
 ### Getting Started
 1. Review the API docs.
 2. Complete the local environment setup.
+
+# Technical Onboarding
+
+Welcome to the team! This site contains all the resources you need to get started.
+
+- **Math Guide**: Check out the [Math Reference](math_guide.md) for our core formulas.
+- **Code**: See the [API](api.md) section for documentation on our `lumache` library.
