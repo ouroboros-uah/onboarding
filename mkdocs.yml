@@ -4,9 +4,8 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
-  theme:
-    palette:
-      scheme: slate
+  palette:
+    scheme: slate
 
 plugins:
   - search
