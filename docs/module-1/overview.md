@@ -67,7 +67,7 @@ As the Space Age began, the US and USSR began competing to turn theory into hard
     The SERT-1 spacecraft, with an ion thruster mounted on the right.
     ///
 
--   <img src="https://commons.wikimedia.org/wiki/File:SPT-140-Hall-Thruster.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/SPT-140-Hall-Thruster.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
     The SPT-140 is a Russian Hall thruster.
@@ -92,13 +92,13 @@ During this era, EP moved from experimental to operational.
 -   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywNdB56F8Van6fjL1Jpl3aNJVvSMwd3OhVg&s" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
-    The ESEX mission was the first flight of an arcjet thruster and the first high-power EP mission.
+    The ESEX mission was the first flight of a high-power arcjet thruster.
     ///
 
 -   <img src="https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1302/857128/1000w_q95.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
-    NASA discovered Hall thruster technologies, and began developing their own, after information spread following the fall of the Soviet Union.
+    NASA began investigating Hall thrusters after the fall of the Soviet Union.
     ///
 
 </div>
