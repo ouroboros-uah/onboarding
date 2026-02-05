@@ -39,9 +39,9 @@ As the Space Age began, the US and USSR began competing to turn theory into hard
 
 * Cold War Research: In the 1950s, both nations launched separate research initiatives into electric thrusters to solve the "mass ratio" problem of chemical rockets.
 
-* 1964: SERT-1 Mission: NASA’s Space Electric Rocket Test (SERT-1) successfully tested an ion thruster in space for the first time, proving that beam neutralization—a critical theoretical hurdle—worked in a vacuum.
+* 1964: SERT-1 Mission: NASA’s Space Electric Rocket Test (SERT-1) successfully tested an ion thruster in space for the first time, proving that beam neutralization, a critical theoretical hurdle, worked in a vacuum.
 
-* Soviet Innovation: While the US focused on Ion engines, the Soviet Union pioneered Hall-effect Thrusters (HETs), which would eventually become a backbone of modern satellite propulsion.
+* Soviet Innovation: While the US focused on ion engines, the Soviet Union pioneered Hall-effect Thrusters (HETs), which would eventually become a backbone of modern satellite propulsion.
 
 !!! tip "Stuhlinger and Huntsville's EP Legacy"
     Ernst Stuhlinger was a German-American physicist and a key member of Wernher von Braun's engineering team, authoring the seminal 1964 textbook *Ion Propulsion for Space Flight*, the first comprehensive engineering reference that turned electric propulsion from a sci-fi concept into a rigorous academic discipline.
@@ -51,14 +51,14 @@ As the Space Age began, the US and USSR began competing to turn theory into hard
 ### Adoption in Satellites (1970s-1990s)
 During this era, EP moved from experimental to operational.
 
-* Station-Keeping: Electric propulsion became the standard for "station-keeping" and attitude control, allowing satellites to maintain their orbital slots with minimal propellant.
+* Station-Keeping: Electric propulsion became the standard for "station-keeping" and attitude control, allowing satellites to maintain their correct position and orientation with minimal propellant.
 
-* USSR Deployment: The Soviet Union began widely deploying Hall thrusters on their communications satellites, proving the long-term reliability of the tech.
+* USSR Deployment: The Soviet Union began widely deploying Hall thrusters on their communications satellites, proving long-term reliability.
 
 ### The Modern Era (2000s-Present)
-EP is no longer just for small adjustments; it is now used for interplanetary travel.
+EP has proliferated all areas of spaceflight, from low Earth orbit to deep space, across all types of government and commercial spacecraft.
 
-* 1998: Deep Space 1: NASA’s Deep Space 1 mission was the first to use ion propulsion as its primary means of interplanetary travel, paving the way for the Dawn mission to the asteroid belt.
+* 1998: Deep Space 1: NASA’s Deep Space 1 mission was the first to use ion propulsion as its primary means of interplanetary travel. This paved the way for the Dawn mission to the asteroid belt, also incorporating an ion thruster.
 
 * Commercial Mainstream: EP is now the default for commercial satellite constellations (like Starlink) due to its extreme efficiency.
 
