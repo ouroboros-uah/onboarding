@@ -29,11 +29,11 @@ nav:
       - 1. Introduction:
           - Welcome to OUROBOROS: module-1/welcome.md
           - History of Spaceflight: module-1/history.md
-          - Overview of EP: module-1/overview.md
+          - Overview of Electric Propulsion: module-1/overview.md
       - 2. Electricity and Magnetism:
           - Single Particle Behavior: module-2/particles.md
           - Fields and Fundamental Laws: module-2/laws.md
-          - Applying Laws to Plasmas: module-2/application.md
+          - Applying Laws to Materials: module-2/application.md
       - 3. Plasma Physics:
           - Fundamentals of Plasma: module-3/fundamentals.md
           - Energy Modes & Ionization: module-3/ionization.md

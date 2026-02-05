@@ -48,3 +48,4 @@ We are currently in a "Space Renaissance" driven by commercialization and a retu
 * Commercialization: Space tourism and private orbital labs are becoming a reality, moving space access away from purely government-funded models.
 
 * Ambitions for the Future: NASA’s Artemis program aims for sustainable Moon bases, while private and public entities focus on the logistical challenges of a human mission to Mars.
+
