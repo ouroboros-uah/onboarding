@@ -115,6 +115,22 @@ EP has proliferated all areas of spaceflight, from low Earth orbit to deep space
 
 * Future Horizons: Ongoing research is currently pushing into high-power systems for deep-space exploration, including concepts like VASIMR (Variable Specific Impulse Magnetoplasma Rocket), as well as miniaturized systems for small satellites.
 
+<div class="grid cards" markdown>
+
+-   <img src="https://d2pn8kiwq2w21t.cloudfront.net/original_images/missionswebdawn_XLMpck3.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    The Dawn mission visited the asteroid Vesta and the dwarf planet Ceres.
+    ///
+
+-   <img src="https://images.squarespace-cdn.com/content/v1/60df2bfb6db9752ed1d79d44/1625238554211-4A5GO75MDERYJQR276X6/50357189282_426a63c2fb_o.png" style="height: 220px; width: 100% object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    NASA's Lunar Gateway will use multiple Hall-effect thrusters for onboard propulsion.
+    ///
+
+</div>
+
 ## Types of Electric Propulsion Devices
 
 ### Electrothermal Thrusters
@@ -125,6 +141,11 @@ The two major types of electrothermal thrusters are:
 * Resistojets: Heat the propellant by passing it over resistive heating elements.
 
 * Arcjets: Use high-energy electric arcs to heat the propellant to much higher temperatures.
+
+<figure markdown="span">
+  ![Description](https://www.researchgate.net/publication/232722658/figure/fig2/AS:646476065673216@1531143313069/Operation-principle-of-thermal-arcjet-thruster.png){ width="80%" style="border-radius: 8px; border: 1px solid #eee;" }
+  <figcaption>An arcjet heats a light propellant to extreme temperatures using a high-current arc.</figcaption>
+</figure>
 
 ### Electrostatic Thrusters
 Electrostatic thrusters are the most common EP devices used in spaceflight today due to their high efficiency and moderate power requirements. A neutral gas is bombarded with electrons, causing ionization, the disassociation of atoms into positive ions and free electrons. Strong electric fields accelerate these positive ions out of the thruster at extremely high speeds ($20-50$ km/s). An external electron gun (often a hollow cathode) injects electrons into the exhaust plume to neutralize it, preventing the spacecraft from building up a negative charge.
