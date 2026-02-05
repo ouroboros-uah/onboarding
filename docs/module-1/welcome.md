@@ -1,5 +1,7 @@
 # Welcome to OUROBOROS
 
+This course is designed to give members of Project OUROBOROS an informal primer in all relevant areas of electromagnetism, plasma physics, and electric propulsion.
+
 !!! danger "Proprietary Information"
     This documentation is meant to be used as an internal reference. **Please do not share this document or its contents outside the project team.** 
     The knowledge contained here is adapted from: 
