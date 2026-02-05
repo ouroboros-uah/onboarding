@@ -65,3 +65,40 @@ EP has proliferated all areas of spaceflight, from low Earth orbit to deep space
 * Current Systems: The field today focuses on the two dominant architectures: Gridded Ion Thrusters (GITs) and Hall-effect Thrusters (HETs).
 
 * Future Horizons: Ongoing research is currently pushing into high-power systems for deep-space exploration, including concepts like VASIMR (Variable Specific Impulse Magnetoplasma Rocket), as well as miniaturized systems for small satellites.
+
+## Types of Electric Propulsion Devices
+
+### Electrothermal Thrusters
+Electrothermal propulsion is the "bridge" between chemical and electric systems. Electrical energy is used to heat the propellant directly, and the resulting hot gas expands through a conventional nozzle to create thrust, similar to a chemical rocket but without a combustion reaction. They are simpler and more compact than other EP thrusters, offering higher thrust but lower efficiency.
+
+The two major types of electrothermal thrusters are:
+
+* Resistojets: Heat the propellant by passing it over resistive heating elements.
+
+* Arcjets: Use high-energy electric arcs to heat the propellant to much higher temperatures.
+
+### Electrostatic Thrusters
+Electrostatic thrusters are the most common EP devices used in spaceflight today due to their high efficiency and moderate power requirements. A neutral gas is bombarded with electrons, causing ionization, the disassociation of atoms into positive ions and free electrons. Strong electric fields accelerate these positive ions out of the thruster at extremely high speeds ($20-50$ km/s). An external electron gun (often a hollow cathode) injects electrons into the exhaust plume to neutralize it, preventing the spacecraft from building up a negative charge.
+
+Three types of electrostatic thrusters are:
+
+* Gridded Ion Thrusters (GIT): Use physical high-voltage grids to accelerate the ion beam.
+
+* Hall-effect Thrusters (HET): Utilize a radial magnetic field and an axial electric field in an annular channel to accelerate ions.
+
+* Field-Emission (FEEP): Use strong electric fields to pull ions directly off a liquid metal surface.
+
+### Electromagnetic Thrusters
+These are highly experimental systems and a major area of active research. They produce higher thrust than electrostatic systems but require significantly higher power. Electromagnetic thrusters use combined electric and magnetic fields to accelerate a plasma via the Lorentz Force.
+
+Some examples of experimental electromagnetic thruster systems include:
+
+* MPD Thrusters: Use perpendicular current flow and magnetic fields to accelerate plasma.
+
+* Pulsed Plasma Thrusters (PPT): Use high-voltage pulses to ablate solid propellant (often PTFE/Teflon) into plasma and accelerate it.
+
+* VASIMR: A Variable Specific Impulse Magnetoplasma Rocket that uses RF ionization combined with a magnetic nozzle.
+
+* Pulsed Inductive Thrusters (PIT): Use a high-power induction coil to create a rapidly changing magnetic field, inducing a circular current in a propellant gas to accelerate it via the Lorentz force.
+
+## Our Focus: The Hall-effect Thruster
