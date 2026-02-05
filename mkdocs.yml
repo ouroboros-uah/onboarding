@@ -25,25 +25,26 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - 1. Introduction:
-      - Welcome to OUROBOROS: module-1/welcome.md
-      - History of Spaceflight: module-1/history.md
-      - Overview of Electric Propulsion: module-1/overview.md
-  - 2. Electricity and Magnetism:
-      - Single Particle Behavior: module-2/particles.md
-      - Fields and Fundamental Laws: module-2/laws.md
-      - Applying Laws to Materials: module-2/application.md
-  - 3. Plasma Physics:
-      - Fundamentals of Plasma: module-3/fundamentals.md
-      - Energy Modes & Ionization: module-3/ionization.md
-      - Plasma Diffusion: module-3/diffusion.md
-      - Plasma Sheaths: module-3/sheaths.md
-  - 4. Electrothermal Thrusters:
-      - Rocket Propulsion Basics: module-4/rocket-basics.md
-      - Resistojets: module-4/resistojets.md
-      - Gaseous Discharges: module-4/discharges.md
-      - Arcjets: module-4/arcjets.md
-  - 5. Electrostatic Thrusters:
-      - Ion Engines: module-5/ion-engines.md
-      - Hall-Effect Thrusters: module-5/hall-thrusters.md
-      - Hollow Cathodes: module-5/cathodes.md
+  - Onboarding Primer:
+      - 1. Introduction:
+          - Welcome to OUROBOROS: module-1/welcome.md
+          - History of Spaceflight: module-1/history.md
+          - Overview of EP: module-1/overview.md
+      - 2. Electricity and Magnetism:
+          - Single Particle Behavior: module-2/particles.md
+          - Fields and Fundamental Laws: module-2/laws.md
+          - Applying Laws to Plasmas: module-2/application.md
+      - 3. Plasma Physics:
+          - Fundamentals of Plasma: module-3/fundamentals.md
+          - Energy Modes & Ionization: module-3/ionization.md
+          - Plasma Diffusion: module-3/diffusion.md
+          - Plasma Sheaths: module-3/sheaths.md
+      - 4. Electrothermal Thrusters:
+          - Rocket Propulsion Basics: module-4/rocket-basics.md
+          - Resistojets: module-4/resistojets.md
+          - Gaseous Discharges: module-4/discharges.md
+          - Arcjets: module-4/arcjets.md
+      - 5. Electrostatic Thrusters:
+          - Ion Engines: module-5/ion-engines.md
+          - Hall-Effect Thrusters: module-5/hall-thrusters.md
+          - Hollow Cathodes: module-5/cathodes.md
