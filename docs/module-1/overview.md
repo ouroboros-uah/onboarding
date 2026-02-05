@@ -9,14 +9,18 @@ The primary trade-off in propulsion is between **thrust** and **efficiency**, re
 
 ## Why Use Electric Propulsion?
 As we move from launch to orbit, the mission requirements change. EP is the tool of choice for several reasons:
+
 * EP is ideal for scenarios where efficiency matters more than high thrust.
+
 * High efficiency enables spacecraft to carry significantly less propellant, reducing both launch mass and total mission cost.
+
 * Widely used for satellite station-keeping, orbit transfers, and deep-space exploration.
-!!! success "A Prolific Technology"
-Fun fact: Electric propulsion devices are currently the most prolific propulsion devices in use, beating out all chemical rocket engines in terms of active systems in space today.
+
+!!! tip "A Prolific Technology"
+    Fun fact: Electric propulsion devices are currently the most prolific propulsion devices in use, beating out all chemical rocket engines in terms of active systems in space today.
 
 The theoretical foundation of our work starts with Tsiolkovsky's rocket equation. This formula dictates how much "change in velocity" ($\Delta v$) we can get out of our hardware.
 $$
 \Delta v = v_e \ln \left( \frac{m_0}{m_f} \right)
 $$
-Because EP systems use electric fields to accelerate particles to incredible speeds, our $v_e$ is an order of magnitude higher than chemical systems.Fuel Efficiency: A higher $v_e$ means we can achieve a higher $\Delta v$ with a much smaller propellant mass, allowing for more scientific instrumentation or longer mission lifetimes.
+Because EP systems use electric fields to accelerate particles to incredible speeds, our exhaust velocity $v_e$ is an order of magnitude higher than chemical systems.Fuel Efficiency: A higher $v_e$ means we can achieve a higher $\Delta v$ with a much smaller propellant mass $m_0$, allowing for more scientific instrumentation or longer mission lifetimes.
