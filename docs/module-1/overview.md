@@ -9,13 +9,13 @@ The primary trade-off in propulsion is between **thrust** and **efficiency**, re
 
 <div class="grid cards" markdown>
 
--   ![Chemical rocket engine](https://en.wikipedia.org/wiki/RS-88#/media/File:RS-88_test_firing.jpg)
+-   ![Chemical rocket engine](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/RS-88_test_firing.jpg/2560px-RS-88_test_firing.jpg)
     
     /// caption
     Chemical rocket engines, with their high thrust, are a great choice for launching spacecraft into orbit.
     ///
 
--   ![Electric propulsion device](https://en.wikipedia.org/wiki/Ion_thruster#/media/File:Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg)
+-   ![Electric propulsion device](https://upload.wikimedia.org/wikipedia/commons/9/9e/Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg)
     
     /// caption
     Electric propulsion devices aren't used in atmospheric flight, but they are used often for in-space maneuvering.
