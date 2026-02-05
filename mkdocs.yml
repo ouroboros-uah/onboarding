@@ -14,11 +14,11 @@ plugins:
             docstring_style: sphinx
 
 markdown_extensions:
+  - markdown_include.include:
+      base_path: .
   - pymdownx.arithmatex:
       generic: true
   - admonition
-  - markdown_include.include:
-      base_path: .
 
 extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
