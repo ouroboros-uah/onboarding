@@ -93,7 +93,7 @@ These are highly experimental systems and a major area of active research. They 
 
 Some examples of experimental electromagnetic thruster systems include:
 
-* MPD Thrusters: Use perpendicular current flow and magnetic fields to accelerate plasma.
+* Magnetoplasmadynamic (MPD) Thrusters: Uses the Lorentz force on charged particles to create thrust.
 
 * Pulsed Plasma Thrusters (PPT): Use high-voltage pulses to ablate solid propellant (often PTFE/Teflon) into plasma and accelerate it.
 
@@ -116,13 +116,13 @@ The operation of a Hall thruster relies on crossed electric and magnetic fields 
 
 OUROBOROS engages with the EP community by contributing to major areas of active research. Some of these include:
 
-* Magnetic Shielding and Topology: Ion bombardment of the channel walls reduces thruster lifetime. Magnetically-shielded thrusters are designed to align magnetic field lines tangent to the walls to prevent ion impact. Research also focuses on understanding how this affects the Hall current and the overall efficiency of the acceleration zone.
+* Magnetic Shielding: Ion bombardment of the channel walls reduces thruster lifetime. Magnetically-shielded thrusters are designed to align magnetic field lines tangent to the walls to prevent ion impact. Research also focuses on understanding how this affects the Hall current and the overall efficiency of the acceleration zone.
 
-* Alternative Propellants: As xenon becomes increasingly expensive due to commercial demand, operators are on the search for cheaper or more mission-specific alternatives. Research falls into two main categories: noble gas alternatives (such as krypton or argon, which are cheaper but less efficient) and condensable propellants (solids like iodine, magnesium, zinc, and bismuth that are sublimated).
+* Alternative Propellants: As xenon becomes increasingly expensive due to commercial demand, operators are on the search for cheaper or more mission-specific alternatives. Research falls into three main categories: noble gas alternatives (such as krypton or argon, which are cheaper but less efficient), condensable propellants (solids like iodine, magnesium, zinc, and bismuth that are sublimated), and molecular propellents (monopropellents, air molecules, water).
 
 * Scaling: Researchers are developing 20kW+ systems for heavy cargo transport and human exploration, as well as miniaturized thrusters that can operate at low power levels (under 100W) while maintaining high efficiency.
 
-* Plasma Instabilities and Modeling: The plasma discharge in a Hall-effect thruster is not perfectly stable, leading to oscillations that can degrade performance. The mechanisms behind this are poorly understood. Researchers are investigating low-frequency breathing mode oscillations (10-30 kHz) where the plasma density "breathes" in and out of the channel. One approach is using high-performance computing to create predictive models of plasma behavior to reduce the need for expensive "test-as-you-fly" vacuum chamber runs.
+* Plasma Instabilities and Modeling: The plasma discharge in a Hall-effect thruster is not perfectly stable, leading to oscillations that can degrade performance. The mechanisms behind this are poorly understood. Researchers are investigating low-frequency breathing mode oscillations (10-30 kHz) where the plasma density "breathes" in and out of the channel. One approach is using high-performance computing to create predictive models of plasma behavior to reduce the need for expensive "test-as-you-fly" vacuum chamber runs, but predictive power is limited by the problem of anomalous electron transport.
 
 
 
