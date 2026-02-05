@@ -32,7 +32,7 @@ nav:
   - 2. Electricity and Magnetism:
       - Single Particle Behavior: module-2/particles.md
       - Fields and Fundamental Laws: module-2/laws.md
-      - Applying Laws to Plasmas: module-2/application.md
+      - Applying Laws to Materials: module-2/application.md
   - 3. Plasma Physics:
       - Fundamentals of Plasma: module-3/fundamentals.md
       - Energy Modes & Ionization: module-3/ionization.md
