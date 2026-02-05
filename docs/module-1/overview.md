@@ -51,9 +51,9 @@ As the Space Age began, the US and USSR began competing to turn theory into hard
 ### Adoption in Satellites (1970s-1990s)
 During this era, EP moved from experimental to operational.
 
-* Station-Keeping: Electric propulsion became the standard for "station-keeping" and attitude control, allowing satellites to maintain their correct position and orientation with minimal propellant.
+* Station-Keeping: Electric propulsion became the standard for station-keeping and attitude control, allowing satellites to maintain their correct position and orientation with minimal propellant.
 
-* USSR Deployment: The Soviet Union began widely deploying Hall thrusters on their communications satellites, proving long-term reliability.
+* USSR Deployment: The Soviet Union began widely deploying Hall thrusters on their communications satellites.
 
 ### The Modern Era (2000s-Present)
 EP has proliferated all areas of spaceflight, from low Earth orbit to deep space, across all types of government and commercial spacecraft.
