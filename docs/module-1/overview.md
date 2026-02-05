@@ -143,7 +143,7 @@ The two major types of electrothermal thrusters are:
 * Arcjets: Use high-energy electric arcs to heat the propellant to much higher temperatures.
 
 <figure markdown="span">
-  <img src="https://i.sstatic.net/3fyz3.png" style="width: 80%; border-radius: 8px; border: 1px solid #333; display: block; margin: 0 auto;">
+  <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg" style="width: 80%; border-radius: 8px; border: 1px solid #333; display: block; margin: 0 auto;">
   <figcaption align="center">An arcjet heats a light propellant to extreme temperatures using a high-current arc.</figcaption>
 </figure>
 

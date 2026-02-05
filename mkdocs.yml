@@ -5,7 +5,7 @@ theme:
     - navigation.sections
     - navigation.expand
   palette:
-    scheme: slate
+    scheme: default
 
 plugins:
   - search
