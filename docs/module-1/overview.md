@@ -102,3 +102,27 @@ Some examples of experimental electromagnetic thruster systems include:
 * Pulsed Inductive Thrusters (PIT): Use a high-power induction coil to create a rapidly changing magnetic field, inducing a circular current in a propellant gas to accelerate it via the Lorentz force.
 
 ## Our Focus: The Hall-effect Thruster
+The main focus of Project OUROBOROS is the development of Hall-effect thruster (HET) systems. Originally developed in the 1960s by the USSR, HETs are now the primary choice for communication satellites and modern deep-space missions, and have been selected for flagship missions like the Lunar Gateway.
+
+The operation of a Hall thruster relies on crossed electric and magnetic fields to create and accelerate plasma.
+
+* A **radial magnetic field** is used to "trap" or impede the flow of electrons toward the anode, forcing them into a circular "Hall current" within an annular discharge channel.
+
+* Neutral propellant (typically xenon) is injected into the channel where it is bombarded by the trapped, high-energy electrons, **creating a dense plasma**.
+
+* Because the electrons are trapped, a strong axial electric field is maintained between the internal anode and the external cathode; this field **accelerates the heavy positive ions** out of the thruster at velocities of $15-30$ km/s.
+
+* The external cathode (hollow cathode) also injects electrons into the exiting ion beam to **neutralize the plume**, preventing the spacecraft from building up a negative charge.
+
+OUROBOROS engages with the EP community by contributing to major areas of active research. Some of these include:
+
+* Magnetic Shielding and Topology: Ion bombardment of the channel walls reduces thruster lifetime. Magnetically-shielded thrusters are designed to align magnetic field lines tangent to the walls to prevent ion impact. Research also focuses on understanding how this affects the Hall current and the overall efficiency of the acceleration zone.
+
+* Alternative Propellants: As xenon becomes increasingly expensive due to commercial demand, operators are on the search for cheaper or more mission-specific alternatives. Research falls into two main categories: noble gas alternatives (such as krypton or argon, which are cheaper but less efficient) and condensable propellants (solids like iodine, magnesium, zinc, and bismuth that are sublimated).
+
+* Scaling: Researchers are developing 20kW+ systems for heavy cargo transport and human exploration, as well as miniaturized thrusters that can operate at low power levels (under 100W) while maintaining high efficiency.
+
+* Plasma Instabilities and Modeling: The plasma discharge in a Hall-effect thruster is not perfectly stable, leading to oscillations that can degrade performance. The mechanisms behind this are poorly understood. Researchers are investigating low-frequency breathing mode oscillations (10-30 kHz) where the plasma density "breathes" in and out of the channel. One approach is using high-performance computing to create predictive models of plasma behavior to reduce the need for expensive "test-as-you-fly" vacuum chamber runs.
+
+
+
