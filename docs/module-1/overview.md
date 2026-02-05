@@ -7,15 +7,21 @@ Electric propulsion uses electrical or electromagnetic energy to accelerate a pr
 
 The primary trade-off in propulsion is between **thrust** and **efficiency**, reported in terms of specific impulse ($I_{sp}$), which can be thought of as "gas mileage" for a rocket engine. Chemical rockets burn fuel to produce high-pressure gas expelled for massive thrust, but with low efficiency. **Electric propulsion provides much higher efficiency than chemical rockets but at the cost of much lower thrust.**
 
-![Chemical rocket engine](https://en.wikipedia.org/wiki/RS-88#/media/File:RS-88_test_firing.jpg){ width="300" }{ align=left }
-/// caption
-Chemical rocket engines, with their high thrust, are a great choice for launching spacecraft into orbit.
-///
+<div class="grid cards" markdown>
 
-![Electric propulsion device](https://en.wikipedia.org/wiki/Ion_thruster#/media/File:Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg){ width="300" }{ align=right }
-/// caption
-Electric propulsion devices aren't used in atmospheric flight, but they are used often for in-space maneuvering.
-///
+-   ![Chemical rocket engine](https://en.wikipedia.org/wiki/RS-88#/media/File:RS-88_test_firing.jpg)
+    
+    /// caption
+    Chemical rocket engines, with their high thrust, are a great choice for launching spacecraft into orbit.
+    ///
+
+-   ![Electric propulsion device](https://en.wikipedia.org/wiki/Ion_thruster#/media/File:Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg)
+    
+    /// caption
+    Electric propulsion devices aren't used in atmospheric flight, but they are used often for in-space maneuvering.
+    ///
+
+</div>
 
 ## Why Use Electric Propulsion?
 As we move from launch to orbit, the mission requirements change. EP is the tool of choice for several reasons:
