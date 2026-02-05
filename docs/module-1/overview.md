@@ -59,6 +59,22 @@ As the Space Age began, the US and USSR began competing to turn theory into hard
 
 * Soviet Innovation: While the US focused on ion engines, the Soviet Union pioneered Hall-effect Thrusters (HETs), which would eventually become a backbone of modern satellite propulsion.
 
+<div class="grid cards" markdown>
+
+-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SERT-1_spacecraft.jpg/2560px-SERT-1_spacecraft.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    The SERT-1 spacecraft, with an ion thruster mounted on the right.
+    ///
+
+-   <img src="http://www.astronautix.com/graphics/z/zspt100.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    The SPT-100 is a prolific Soviet, and later internationalized, Hall thruster.
+    ///
+
+</div>
+
 !!! tip "Stuhlinger and Huntsville's EP Legacy"
     Ernst Stuhlinger was a German-American physicist and a key member of Wernher von Braun's engineering team, authoring the seminal 1964 textbook *Ion Propulsion for Space Flight*, the first comprehensive engineering reference that turned electric propulsion from a sci-fi concept into a rigorous academic discipline.
 
