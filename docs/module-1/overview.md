@@ -140,10 +140,21 @@ The two major types of electrothermal thrusters are:
 
 * **Arcjets**: Use high-energy electric arcs to heat the propellant to much higher temperatures.
 
-<figure markdown="span">
-  <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg" style="width: 80%; border-radius: 8px; border: 1px solid #333; display: block; margin: 0 auto;">
-  <figcaption align="center">An arcjet heats a light propellant to extreme temperatures using a high-current arc.</figcaption>
-</figure>
+<div class="grid cards" markdown>
+
+-   <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    A simplified cutaway schematic of an arcjet thruster.
+    ///
+
+-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGbqfa6FcDF6IHv3TmjaPNpVTwU74j2fqR-g&s" style="height: 220px; width: 100% object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    Small resistojets can be used for attitude control.
+    ///
+
+</div>
 
 ### Electrostatic Thrusters
 Electrostatic thrusters are the most common EP devices used in spaceflight today due to their high efficiency and moderate power requirements. A neutral gas is bombarded with electrons, causing ionization, the disassociation of atoms into positive ions and free electrons. Strong electric fields accelerate these positive ions out of the thruster at extremely high speeds ($20-50$ km/s). An external electron gun (often a hollow cathode) injects electrons into the exhaust plume to neutralize it, preventing the spacecraft from building up a negative charge.
@@ -164,7 +175,7 @@ Three types of electrostatic thrusters are:
     The gridded ion thruster used on BepiColombo, Europe and Japan's collaborative mission to Mercury.
     ///
 
--   <img src="https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1302/857128/1000w_q95.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+-   <img src="https://www.nasa.gov/wp-content/uploads/2023/11/grc-2023-c-05543.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
     NASA's Advanced Electric Propulsion System (AEPS) will be used for the Lunar Gateway Power and Propulsion Element.
@@ -216,13 +227,13 @@ The operation of a Hall thruster relies on crossed electric and magnetic fields 
 
 OUROBOROS engages with the EP community by contributing to major areas of active research. Some of these include:
 
-* Magnetic Shielding: Ion bombardment of the channel walls reduces thruster lifetime. Magnetically-shielded thrusters are designed to align magnetic field lines tangent to the walls to prevent ion impact. Research also focuses on understanding how this affects the Hall current and the overall efficiency of the acceleration zone.
+* **Magnetic Shielding**: Ion bombardment of the channel walls reduces thruster lifetime. Magnetically-shielded thrusters are designed to align magnetic field lines tangent to the walls to prevent ion impact. Research also focuses on understanding how this affects the Hall current and the overall efficiency of the acceleration zone.
 
-* Alternative Propellants: As xenon becomes increasingly expensive due to commercial demand, operators are on the search for cheaper or more mission-specific alternatives. Research falls into three main categories: noble gas alternatives (such as krypton or argon, which are cheaper but less efficient), condensable propellants (solids like iodine, magnesium, zinc, and bismuth that are sublimated), and molecular propellents (monopropellents, air molecules, water).
+* **Alternative Propellants**: As xenon becomes increasingly expensive due to commercial demand, operators are on the search for cheaper or more mission-specific alternatives. Research falls into three main categories: noble gas alternatives (such as krypton or argon, which are cheaper but less efficient), condensable propellants (solids like iodine, magnesium, zinc, and bismuth that are sublimated), and molecular propellents (monopropellents, air molecules, water).
 
-* Scaling: Researchers are developing 20kW+ systems for heavy cargo transport and human exploration, as well as miniaturized thrusters that can operate at low power levels (under 100W) while maintaining high efficiency.
+* **Scaling**: Researchers are developing 20kW+ systems for heavy cargo transport and human exploration, as well as miniaturized thrusters that can operate at low power levels (under 100W) while maintaining high efficiency.
 
-* Plasma Instabilities and Modeling: The plasma discharge in a Hall-effect thruster is not perfectly stable, leading to oscillations that can degrade performance. The mechanisms behind this are poorly understood. Researchers are investigating low-frequency breathing mode oscillations (10-30 kHz) where the plasma density "breathes" in and out of the channel. One approach is using high-performance computing to create predictive models of plasma behavior to reduce the need for expensive "test-as-you-fly" vacuum chamber runs, but predictive power is limited by the problem of anomalous electron transport.
+* **Plasma Instabilities and Modeling**: The plasma discharge in a Hall-effect thruster is not perfectly stable, leading to oscillations that can degrade performance. The mechanisms behind this are poorly understood. Researchers are investigating low-frequency breathing mode oscillations (10-30 kHz) where the plasma density "breathes" in and out of the channel. One approach is using high-performance computing to create predictive models of plasma behavior to reduce the need for expensive "test-as-you-fly" vacuum chamber runs, but predictive power is limited by the problem of anomalous electron transport.
 
 
 
