@@ -46,18 +46,17 @@ Because EP systems use electric fields to accelerate particles to incredible spe
 While chemical rockets dominated the early space race, the concept of using electricity to power spacecraft has existed for over a century.
 
 ### Early Concepts (1900s)
-* 1906: The Goddard Proposal: Robert Goddard, the father of American rocketry, was among the first to propose using electrically accelerated charged particles to produce thrust.
+* 1906: Robert Goddard, the father of American rocketry, was among the first to propose using electrically accelerated charged particles to produce thrust.
 
-* Theoretical Constraints: While the physics were understood, these early ideas remained purely theoretical for decades due to the lack of compact, high-output power sources needed to ionize and accelerate propellant.
+* While the physics were understood, these early ideas remained purely theoretical for decades due to the lack of compact, high-output power sources needed to ionize and accelerate propellant.
 
 ### First Practical Designs (1950s-1960s)
-As the Space Age began, the US and USSR began competing to turn theory into hardware.
 
-* Cold War Research: In the 1950s, both nations launched separate research initiatives into electric thrusters to solve the "mass ratio" problem of chemical rockets.
+* As the Space Age began, the US and USSR began competing to turn theory into hardware. Both nations launched separate research initiatives into electric thrusters to solve the "mass ratio" problem of chemical rockets.
 
-* 1964: SERT-1 Mission: NASA’s Space Electric Rocket Test (SERT-1) successfully tested an ion thruster in space for the first time, proving that beam neutralization, a critical theoretical hurdle, worked in a vacuum.
+* 1964: NASA’s **Space Electric Rocket Test (SERT-1)** successfully tested an ion thruster in space for the first time, proving that beam neutralization, a critical theoretical hurdle, worked in a vacuum.
 
-* Soviet Innovation: While the US focused on ion engines, the Soviet Union pioneered Hall-effect Thrusters (HETs), which would eventually become a backbone of modern satellite propulsion.
+* **While the US focused on ion engines, the Soviet Union pioneered Hall-effect Thrusters (HETs)**, which would eventually become a backbone of modern satellite propulsion.
 
 <div class="grid cards" markdown>
 
@@ -81,11 +80,10 @@ As the Space Age began, the US and USSR began competing to turn theory into hard
     He was the first director of the Space Science Lab at NASA Marshall, and after retiring he became a researcher and professor of astrophysics and space science at UAH. The Stuhlinger Medal is the highest honor in the field, awarded biennially to individuals who have made outstanding contributions to the science, technology or development of EP.
 
 ### Adoption in Satellites (1970s-1990s)
-During this era, EP moved from experimental to operational.
 
-* Station-Keeping: Electric propulsion became the standard for station-keeping and attitude control, allowing satellites to maintain their correct position and orientation with minimal propellant.
+* Electric propulsion became the standard for station-keeping and attitude control, allowing satellites to maintain their correct position and orientation with minimal propellant.
 
-* USSR Deployment: The Soviet Union began widely deploying Hall thrusters on their communications satellites.
+* The Soviet Union began widely deploying Hall thrusters on their communications satellites.
 
 <div class="grid cards" markdown>
 
@@ -107,13 +105,13 @@ During this era, EP moved from experimental to operational.
 ### The Modern Era (2000s-Present)
 EP has proliferated all areas of spaceflight, from low Earth orbit to deep space, across all types of government and commercial spacecraft.
 
-* 1998: Deep Space 1: NASA’s Deep Space 1 mission was the first to use ion propulsion as its primary means of interplanetary travel. This paved the way for the Dawn mission to the asteroid belt, also incorporating an ion thruster.
+* 1998: NASA’s **Deep Space 1** mission was the first to use ion propulsion as its primary means of interplanetary travel. This paved the way for the **Dawn** mission to the asteroid belt, also incorporating an ion thruster.
 
-* Commercial Mainstream: EP is now the default for commercial satellite constellations (like Starlink) due to its extreme efficiency.
+* EP is now the default for commercial satellite constellations (like Starlink) due to its extreme efficiency.
 
-* Current Systems: The field today focuses on the two dominant architectures: Gridded Ion Thrusters (GITs) and Hall-effect Thrusters (HETs).
+* The field today focuses on two dominant architectures for operational missions: Gridded Ion Thrusters (GITs) and Hall-effect Thrusters (HETs).
 
-* Future Horizons: Ongoing research is currently pushing into high-power systems for deep-space exploration, including concepts like VASIMR (Variable Specific Impulse Magnetoplasma Rocket), as well as miniaturized systems for small satellites.
+* Ongoing research is currently pushing into high-power systems for deep-space exploration, including concepts like VASIMR (Variable Specific Impulse Magnetoplasma Rocket), as well as miniaturized systems for small satellites.
 
 <div class="grid cards" markdown>
 
@@ -134,13 +132,13 @@ EP has proliferated all areas of spaceflight, from low Earth orbit to deep space
 ## Types of Electric Propulsion Devices
 
 ### Electrothermal Thrusters
-Electrothermal propulsion is the "bridge" between chemical and electric systems. Electrical energy is used to heat the propellant directly, and the resulting hot gas expands through a conventional nozzle to create thrust, similar to a chemical rocket but without a combustion reaction. They are simpler and more compact than other EP thrusters, offering higher thrust but lower efficiency.
+Electrothermal propulsion can be thought of as a bridge between chemical and electric systems. Electrical energy is used to heat the propellant directly, and the resulting hot gas expands through a conventional nozzle to create thrust, similar to a chemical rocket but without a combustion reaction. They are simpler and more compact than other EP thrusters, offering higher thrust but lower efficiency.
 
 The two major types of electrothermal thrusters are:
 
-* Resistojets: Heat the propellant by passing it over resistive heating elements.
+* **Resistojets**: Heat the propellant by passing it over resistive heating elements.
 
-* Arcjets: Use high-energy electric arcs to heat the propellant to much higher temperatures.
+* **Arcjets**: Use high-energy electric arcs to heat the propellant to much higher temperatures.
 
 <figure markdown="span">
   <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg" style="width: 80%; border-radius: 8px; border: 1px solid #333; display: block; margin: 0 auto;">
@@ -152,24 +150,56 @@ Electrostatic thrusters are the most common EP devices used in spaceflight today
 
 Three types of electrostatic thrusters are:
 
-* Gridded Ion Thrusters (GIT): Use physical high-voltage grids to accelerate the ion beam.
+* **Gridded Ion Thrusters (GIT)**: Use physical high-voltage grids to accelerate the ion beam.
 
-* Hall-effect Thrusters (HET): Utilize a radial magnetic field and an axial electric field in an annular channel to accelerate ions.
+* **Hall-effect Thrusters (HET)**: Utilize a radial magnetic field and an axial electric field in an annular channel to accelerate ions.
 
-* Field-Emission (FEEP): Use strong electric fields to pull ions directly off a liquid metal surface.
+* **Field-Emission Electric Propulsion (FEEP)**: Use strong electric fields to pull ions directly off a liquid metal surface.
+
+<div class="grid cards" markdown>
+
+-   <img src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2021/08/ION-Thruster.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    The gridded ion thruster used on BepiColombo, Europe and Japan's collaborative mission to Mercury.
+    ///
+
+-   <img src="https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1302/857128/1000w_q95.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    NASA's Advanced Electric Propulsion System (AEPS) will be used for the Lunar Gateway Power and Propulsion Element.
+    ///
+
+</div>
 
 ### Electromagnetic Thrusters
 These are highly experimental systems and a major area of active research. They produce higher thrust than electrostatic systems but require significantly higher power. Electromagnetic thrusters use combined electric and magnetic fields to accelerate a plasma via the Lorentz Force.
 
 Some examples of experimental electromagnetic thruster systems include:
 
-* Magnetoplasmadynamic (MPD) Thrusters: Uses the Lorentz force on charged particles to create thrust.
+* **Magnetoplasmadynamic (MPD) Thrusters**: Uses the Lorentz force on charged particles to create thrust.
 
-* Pulsed Plasma Thrusters (PPT): Use high-voltage pulses to ablate solid propellant (often PTFE/Teflon) into plasma and accelerate it.
+* **Pulsed Plasma Thrusters (PPT)**: Use high-voltage pulses to ablate solid propellant (often PTFE/Teflon) into plasma and accelerate it.
 
-* VASIMR: A Variable Specific Impulse Magnetoplasma Rocket that uses RF ionization combined with a magnetic nozzle.
+* **VASIMR**: A Variable Specific Impulse Magnetoplasma Rocket that uses RF ionization combined with a magnetic nozzle.
 
-* Pulsed Inductive Thrusters (PIT): Use a high-power induction coil to create a rapidly changing magnetic field, inducing a circular current in a propellant gas to accelerate it via the Lorentz force.
+* **Pulsed Inductive Thrusters (PIT)**: Use a high-power induction coil to create a rapidly changing magnetic field, inducing a circular current in a propellant gas to accelerate it via the Lorentz force.
+
+<div class="grid cards" markdown>
+
+-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Self-field_MPD_thruster-CGI_illustration.jpeg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    Rendering of Princeton University's proposed lithium-fed self-field MPD thruster.
+    ///
+
+-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vasimr.png/500px-Vasimr.png" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    VASIMR laboratory experiment schematic. As of now, VASIMR and most other electromagnetic thrusters are purely experimental.
+    ///
+
+</div>
 
 ## Our Focus: The Hall-effect Thruster
 The main focus of Project OUROBOROS is the development of Hall-effect thruster (HET) systems. Originally developed in the 1960s by the USSR, HETs are now the primary choice for communication satellites and modern deep-space missions, and have been selected for flagship missions like the Lunar Gateway.
