@@ -142,7 +142,7 @@ The two major types of electrothermal thrusters are:
 
 <div class="grid cards" markdown>
 
--   <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+-   <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
     A simplified cutaway schematic of an arcjet thruster.
@@ -184,7 +184,7 @@ Three types of electrostatic thrusters are:
 </div>
 
 ### Electromagnetic Thrusters
-These are highly experimental systems and a major area of active research. They produce higher thrust than electrostatic systems but require significantly higher power. Electromagnetic thrusters use combined electric and magnetic fields to accelerate a plasma via the Lorentz Force.
+These are highly experimental systems and a major area of active research. They produce higher thrust than electrostatic systems but require significantly higher power. Electromagnetic thrusters use combined electric and magnetic fields to accelerate a plasma via the Lorentz force.
 
 Some examples of experimental electromagnetic thruster systems include:
 
@@ -192,7 +192,7 @@ Some examples of experimental electromagnetic thruster systems include:
 
 * **Pulsed Plasma Thrusters (PPT)**: Use high-voltage pulses to ablate solid propellant (often PTFE/Teflon) into plasma and accelerate it.
 
-* **VASIMR**: A Variable Specific Impulse Magnetoplasma Rocket that uses RF ionization combined with a magnetic nozzle.
+* **Variable Specific Impulse Magnetoplasma Rocket (VASIMR)**: Uses RF ionization combined with a magnetic nozzle.
 
 * **Pulsed Inductive Thrusters (PIT)**: Use a high-power induction coil to create a rapidly changing magnetic field, inducing a circular current in a propellant gas to accelerate it via the Lorentz force.
 
@@ -207,7 +207,7 @@ Some examples of experimental electromagnetic thruster systems include:
 -   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vasimr.png/500px-Vasimr.png" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
-    VASIMR laboratory experiment schematic. As of now, VASIMR and most other electromagnetic thrusters are purely experimental.
+    Schematic for a laboratory experiment version of VASIMR.
     ///
 
 </div>
@@ -225,6 +225,16 @@ The operation of a Hall thruster relies on crossed electric and magnetic fields 
 
 * The external cathode (hollow cathode) also injects electrons into the exiting ion beam to **neutralize the plume**, preventing the spacecraft from building up a negative charge.
 
+<div class="grid cards" markdown>
+
+-   <img src="https://htx.pppl.gov/Pictures/HTX-concept.PNG" style="height: 400px; width: 100%; object-fit: cover; border-radius: 4px; margin-bottom: 0;">
+
+    /// caption
+    A simplified schematic of a Hall-effect thruster.
+    ///
+
+</div>
+
 OUROBOROS engages with the EP community by contributing to major areas of active research. Some of these include:
 
 * **Magnetic Shielding**: Ion bombardment of the channel walls reduces thruster lifetime. Magnetically-shielded thrusters are designed to align magnetic field lines tangent to the walls to prevent ion impact. Research also focuses on understanding how this affects the Hall current and the overall efficiency of the acceleration zone.
@@ -234,6 +244,22 @@ OUROBOROS engages with the EP community by contributing to major areas of active
 * **Scaling**: Researchers are developing 20kW+ systems for heavy cargo transport and human exploration, as well as miniaturized thrusters that can operate at low power levels (under 100W) while maintaining high efficiency.
 
 * **Plasma Instabilities and Modeling**: The plasma discharge in a Hall-effect thruster is not perfectly stable, leading to oscillations that can degrade performance. The mechanisms behind this are poorly understood. Researchers are investigating low-frequency breathing mode oscillations (10-30 kHz) where the plasma density "breathes" in and out of the channel. One approach is using high-performance computing to create predictive models of plasma behavior to reduce the need for expensive "test-as-you-fly" vacuum chamber runs, but predictive power is limited by the problem of anomalous electron transport.
+
+<div class="grid cards" markdown>
+
+-   <img src="https://www.mdpi.com/aerospace/aerospace-10-00942/article_deploy/html/images/aerospace-10-00942-g002-550.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    Magnetically-shielded thrusters have field lines tangent to the channel wall.
+    ///
+
+-   <img src="https://images.squarespace-cdn.com/content/v1/60df2bfb6db9752ed1d79d44/1628258557414-KY7CICIM1BYKYTUF330J/Propellant_Options_Busek.png" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
+
+    /// caption
+    Alternative propellants produce different-colored plasmas in a Hall thruster.
+    ///
+
+</div>
 
 
 
