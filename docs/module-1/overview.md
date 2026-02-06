@@ -142,7 +142,7 @@ The two major types of electrothermal thrusters are:
 
 <div class="grid cards" markdown>
 
--   <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg" style="height: 280px; width: 100%; object-fit: cover; border-radius: 4px;">
+-   <img src="https://currentpropulsionsystems.weebly.com/uploads/3/5/2/6/3526676/7971644_orig.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
     A simplified cutaway schematic of an arcjet thruster.
@@ -247,7 +247,7 @@ OUROBOROS engages with the EP community by contributing to major areas of active
 
 <div class="grid cards" markdown>
 
--   <img src="https://www.mdpi.com/aerospace/aerospace-10-00942/article_deploy/html/images/aerospace-10-00942-g002-550.jpg" style="height: 300px; width: 100%; object-fit: cover; border-radius: 4px;">
+-   <img src="https://www.mdpi.com/aerospace/aerospace-10-00942/article_deploy/html/images/aerospace-10-00942-g002-550.jpg" style="height: 220px; width: 100%; object-fit: cover; border-radius: 4px;">
 
     /// caption
     Magnetically-shielded thrusters have field lines tangent to the channel wall.
