@@ -71,7 +71,7 @@ In a non-uniform magnetic field, the Larmor radius is constantly changing based 
 
 Since one of the turns is tighter than the other, the particle walks through space with a non-zero net motion. The resulting drift velocity can be calcluated as follows:
 
-$$ \vec{v_{D,\nabla B}} = \frac{1}{q}\frac{mv_{\perp}^{2}}{2B}\frac{\vec{B} \times \nabla \vec{B}}{B^{2}} $$
+$$ \vec{v}_{D,\nabla B} = \frac{1}{q}\frac{mv_{\perp}^{2}}{2B}\frac{\vec{B} \times \nabla \vec{B}}{B^{2}} $$
 
 This is known as the **$\nabla B$ Drift** (pronounced "gradient B" or "grad B"). Unlike the $E \times B$ drift, the $\nabla B$ drift velocity is dependent on the particle's energy and charge.
 
