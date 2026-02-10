@@ -9,7 +9,7 @@ theme:
 
 plugins:
   - search
-  - quiz
+  - mkdocs_quiz
   - mkdocstrings:
       handlers:
         python:
