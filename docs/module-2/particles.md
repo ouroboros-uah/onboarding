@@ -7,8 +7,11 @@ By turning a propellant into a plasma, we can decouple the energy source from th
 ## Plasma and Particles
 
 A plasma is defined by the following criteria:
+
 * **Unbound Particles**: A significant fraction of atoms have been ionized, meaning electrons have been liberated from their nuclei. This allows the medium to respond to electromagnetic fields.
+
 * **Quasi-neutrality**: On a large scale, the plasma has equal densities of positive and negative particles, resulting in a net neutral charge. Local imbalances only occur in very small regions.
+
 * **Collective Behavior**: Because of long-range electrostatic forces, plasma particles do not just collide like billiard balls; they respond together to external forces.
 
 Therefore, it motivates us to begin by understanding the behavior of **single particles** and how they respond to electromagnetic fields.
@@ -43,7 +46,7 @@ Solving, we can determine the radius of gyration, known as the **Larmor radius**
 
 $$ r_B = \frac{m v_{\perp}}{q B} $$
 
-Similarly, we can solve for how fast the particle spins around the field line, known as the **cyclotron frequency** or **gyrofrequency**.
+Similarly, we can solve for how fast the particle gyrates, known as the **cyclotron frequency** or **gyrofrequency**.
 
 $$ \omega_{c} = \frac{qB}{m} $$
 
