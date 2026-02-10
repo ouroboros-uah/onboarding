@@ -33,9 +33,9 @@ We can do work against this electric field, moving particles. **Voltage** ($V$),
 
 Magnetic fields ($\vec{B}$) are produced by moving charges, known as currents. Current density ($\vec{j}$) represents the flux of charged particles across a given area, calculated as $\vec{j}=\sum nq\vec{v}$. 
 
-**Ampère’s Circuit Law** relates the magnetic field integrated around a closed loop to the current passing through it:
+If charges are flowing past you (forming a current density $\vec{j}$), they create a "whirlpool" of magnetic field circling that exact point. **Ampère’s Circuit Law** describes this phenomenon:
 
-$$\oint\vec{B}\cdot d\vec{l}=\mu_{0}I_{enclosed}$$
+$$\nabla \times \vec{B} = \mu_0 \vec{j}$$
 
 Note that the magnetic permeability of free space $\mu_{0}$ is a constant equal to $4\pi \times 10^{-7} \text{ T·m/A}$.
 
