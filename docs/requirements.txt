@@ -3,3 +3,4 @@ mkdocstrings[python]
 pymdown-extensions
 markdown-include
 pyyaml-env-tag
+mkdocs-quiz
