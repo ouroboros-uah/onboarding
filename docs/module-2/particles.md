@@ -6,15 +6,9 @@ By turning a propellant into a plasma, we can decouple the energy source from th
 
 ## Plasma and Particles
 
-A plasma is defined by the following criteria:
+A plasma is defined by its unbound particles. A significant fraction of atoms have been ionized, meaning electrons have been liberated from their nuclei. This allows the medium to respond to electromagnetic fields. Because of long-range electrostatic forces, plasma particles respond together to external forces.
 
-* **Unbound Particles**: A significant fraction of atoms have been ionized, meaning electrons have been liberated from their nuclei. This allows the medium to respond to electromagnetic fields.
-
-* **Quasi-neutrality**: On a large scale, the plasma has equal densities of positive and negative particles, resulting in a net neutral charge. Local imbalances only occur in very small regions.
-
-* **Collective Behavior**: Because of long-range electrostatic forces, plasma particles do not just collide like billiard balls; they respond together to external forces.
-
-Therefore, it motivates us to begin by understanding the behavior of **single particles** and how they respond to electromagnetic fields.
+Therefore, it motivates us to begin by understanding the behavior of **single particles** and how they respond to electromagnetic fields, before diving into the macroscopic behaviors of plasmas.
 
 ## Motion in an Electric Field ($\vec{E}$)
 
@@ -60,7 +54,7 @@ These combined forces lead to particles experiencing net motion in space, referr
 
 When an electric field is applied perpendicular to a magnetic field, the particle experiencing gyrating motion, but with a net drift velocity perpendicular to both fields:
 
-$$ \vec{v_{D}} = \frac{\vec{E} \times \vec{B}}{B^{2}} $$
+$$ \vec{v}_{D} = \frac{\vec{E} \times \vec{B}}{B^{2}} $$
 
 This net motion is known as the **$E \times B$ Drift** (pronounced "E cross B") from the form of the equation. Note that the $E \times B$ drift velocity is independent of the particle's charge or mass, and is only dependent on the field strengths and directions.
 
