@@ -55,3 +55,28 @@ $$ \omega_{c} = \frac{qB}{m} $$
 When particles are subject to both fields, we use the Lorentz Force to determine their total motion:
 
 $$ \vec{F} = m\vec{a} = q(\vec{E} + \vec{v} \times \vec{B}) $$
+
+These combined forces lead to particles experiencing net motion in space, referred to as a **drift**.
+
+When an electric field is applied perpendicular to a magnetic field, the particle experiencing gyrating motion, but with a net drift velocity perpendicular to both fields:
+
+$$ \vec{v_{D}} = \frac{\vec{E} \times \vec{B}}{B^{2}} $$
+
+This net motion is known as the **$E \times B$ Drift** (pronounced "E cross B") from the form of the equation. Note that the $E \times B$ drift velocity is independent of the particle's charge or mass, and is only dependent on the field strengths and directions.
+
+!!! tip "$E \times B$ Drift"
+    In Hall-effect thrusters, we use this $E \times B$ Drift to trap electrons in a circular "Hall Current" at the exit plane. They stay "stuck" in these sideways loops, colliding with and ionizing propellant, while the heavy ions shoot straight out to provide thrust.
+
+In a non-uniform magnetic field, the Larmor radius is constantly changing based on the local strength of the field. The resulting loops are elongated, since areas with a weak field result in a wider loop, and areas with a strong field result in a tighter loop.
+
+Since one of the turns is tighter than the other, the particle walks through space with a non-zero net motion. The resulting drift velocity can be calcluated as follows:
+
+$$ \vec{v_{D,\nabla B}} = \frac{1}{q}\frac{mv_{\perp}^{2}}{2B}\frac{\vec{B} \times \nabla \vec{B}}{B^{2}} $$
+
+This is known as the **$\nabla B$ Drift** (pronounced "gradient B" or "grad B"). Unlike the $E \times B$ drift, the $\nabla B$ drift velocity is dependent on the particle's energy and charge.
+
+## Application: The Penning Trap
+
+A practical application of these combined forces is the **Penning trap**. It uses a strong uniform magnetic field to provide radial confinement (keeping particles from flying out sideways) and a quadrupole electric field to provide axial confinement (keeping them from escaping out the ends).
+
+By balancing these forces, we can "bottle" charged particles (and even antimatter!) to study them for long periods.
