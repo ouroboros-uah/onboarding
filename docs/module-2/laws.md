@@ -64,7 +64,7 @@ $$\vec{\nabla}\times\vec{E}=-\frac{\partial \vec{B}}{\partial t}$$
 !!! tip "Application: Explosively Pumped Flux Compression Generator" 
     These single-use devices generate a high-power electromagnetic pulse by using high explosives to rapidly compress magnetic flux. They are used in research for fusion, pulsed power, and electromagnetic warfare.
 
-## Maxwell's Equations (Differential Form)
+## Maxwell's Equations in Free Space (Differential Form)
 
 So far, we have covered four very important equations, which together are known as **Maxwell's Equations**. These govern all of classical electromagnetism in free space. 
 

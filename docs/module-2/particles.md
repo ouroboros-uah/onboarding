@@ -30,6 +30,17 @@ $$
 \vec{F_{b}} = q(\vec{v} \times \vec{B})
 $$
 
+!!! tip "Dot and Cross Products and the Right Hand Rule" 
+    The study of electricity and magnetism relies heavily on vector operations. Two important operations are the dot and cross product.
+
+    The **dot product** ($\vec{A} \cdot \vec{B}$) measures how much two vectors point in the same direction.
+
+    The **cross product** ($\vec{A} \times \vec{B}$) produces a new vector that is perfectly perpendicular to the first two. 
+
+    One tool we use to visualize the cross product is known as the **Right-Hand Rule**. Point your pointer finger in the direction of the first vector, and your middle finger in the direction of the second vector (order matters). Your thumb will be pointing in the direction of the resultant vector, $\vec{A} \times \vec{B}$.
+
+    Using the Right Hand Rule, can you figure out what happens if we flipped the two vectors in the cross product ($\vec{B} \times \vec{A}$)? 
+
 The magnetic force (Lorentz force) acts as the centripetal force pulling the particle into a circle. We set the magnitude of the magnetic force equal to the mass times the centripetal acceleration:
 
 $$F_{magnetic} = F_{centripetal}$$
