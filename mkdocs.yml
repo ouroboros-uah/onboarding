@@ -38,24 +38,30 @@ nav:
           - Welcome to OUROBOROS: module-1/welcome.md
           - History of Spaceflight: module-1/history.md
           - Overview of Electric Propulsion: module-1/overview.md
+          - Module 1 Quiz: module-1/quiz1.md
       - Module 2 - Electricity and Magnetism:
           - Single Particle Behavior: module-2/particles.md
           - Fields and Fundamental Laws: module-2/laws.md
           - Applying Laws to Materials: module-2/application.md
+          - Module 2 Quiz: module-2/quiz2.md
       - Module 3 - Plasma Physics:
           - Fundamentals of Plasma: module-3/fundamentals.md
           - Energy Modes & Ionization: module-3/ionization.md
           - Plasma Diffusion: module-3/diffusion.md
           - Plasma Sheaths: module-3/sheaths.md
+          - Module 3 Quiz: module-3/quiz3.md
       - Module 4 - Electrothermal Thrusters:
           - Rocket Propulsion Basics: module-4/rocket-basics.md
           - Resistojets: module-4/resistojets.md
           - Gaseous Discharges: module-4/discharges.md
           - Arcjets: module-4/arcjets.md
+          - Module 4 Quiz: module-4/quiz4.md
       - Module 5 - Electrostatic Thrusters:
           - Ion Engines: module-5/ion-engines.md
           - Hall-Effect Thrusters: module-5/hall-thrusters.md
           - Hollow Cathodes: module-5/cathodes.md
+          - Module 5 Quiz: module-5/quiz5.md
       - Module 6 - Electromagnetic Thrusters:
           - Steady Electromagnetic Thrusters: module-6/steady.md
           - Unsteady Electromagnetic Thrusters: module-6/unsteady.md
+          - Module 6 Quiz: module-6/quiz6.md
