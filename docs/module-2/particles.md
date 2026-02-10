@@ -41,7 +41,7 @@ $$
 
     Using the Right Hand Rule, can you figure out what happens if we flipped the two vectors in the cross product (effectively calculating $\vec{B} \times \vec{A}$)? 
 
-    **Note:** Electrons have a negative charge. So, the negative sign requires flipping the $\vec{v}$ vector when calculating \vec{F_{b}} = q(\vec{v} \times \vec{B}) for an electron.
+    **Note:** Electrons have a negative charge. So, the negative sign requires flipping the $\vec{v}$ vector when calculating $ \vec{F_{b}} = q(\vec{v} \times \vec{B}) $ for an electron.
 
 The magnetic force (Lorentz force) acts as the centripetal force pulling the particle into a circle. We set the magnitude of the magnetic force equal to the mass times the centripetal acceleration:
 
@@ -78,7 +78,7 @@ This net motion is known as the **$E \times B$ drift** (pronounced "E cross B") 
 
 To visualize this, let's revisit our semi-truck and go-kart analogy. Let's imagine we're doing the same thing, but now add hurricane-force winds blowing constantly in one direction. As the vehicle turns with the wind, it speeds up. Just like a car taking a corner too fast, the increased speed makes it harder for the "tires" (the magnetic field) to hold the turn, so the arc becomes wider.
 
-As the vehicle swings back around and drives against the wind, it slows down. Now that it’s moving slower, our tires grip the ground much more easily, snapping it into a much tighter, sharper turn. Because the vehicle is constantly switching between wide turns (when running with the wind) and tight turns (when fighting the wind), it doesn't end up back where it started. Instead, it "shuffles" sideways across the parking lot, not in the direction of the wind, but sideways to both.
+As the vehicle swings back around and drives against the wind, it slows down. Now that it’s moving slower, our tires grip the ground much more easily, snapping it into a much tighter, sharper turn. Because the vehicle is constantly switching between wide turns (when running with the wind) and tight turns (when fighting the wind), it doesn't end up back where it started. Instead, it "shuffles" sideways across the parking lot, not in the direction of the wind, but sideways to it (and the direction toward the ground).
 
 In a non-uniform magnetic field, the Larmor radius is constantly changing based on the local strength of the field. The resulting loops are elongated, since areas with a weak field result in a wider loop, and areas with a strong field result in a tighter loop.
 
